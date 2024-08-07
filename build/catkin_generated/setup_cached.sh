@@ -8,3 +8,4 @@
 
 # modified environment variables
 export PWD='/home/yunxia/demo05_ws/build'
+export PYTHONPATH="/home/yunxia/demo05_ws/devel/lib/python3/dist-packages:$PYTHONPATH"
