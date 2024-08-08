@@ -1,0 +1,14 @@
+#1.生命地图图片资源的路径
+image: /home/yunxia/demo05_ws/src/nav_demo/map/nav.pgm
+#2.地图刻度尺单位是  米/像素
+
+resolution: 0.050000
+#3.地图的位姿信息（相对于rviz中的远点的位姿）
+origin: [-50.000000, -50.000000, 0]
+#6.取反
+negate: 0
+#4.占用阈值
+occupied_thresh: 0.65
+#5.空闲阈值
+free_thresh: 0.196
+
